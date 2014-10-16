@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcy:home|Door43 (bcy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcy|d43-bcy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcy/archive/master.zip|d43-bcy.zip]]
+
+**Recent Changes**
+{{changes>ns = bcy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcy|Ethnologue data]]
+
